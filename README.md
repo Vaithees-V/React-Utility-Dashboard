@@ -255,43 +255,6 @@ https://github.com/Vaithees-V/React-Utility-Dashboard
 
 ---
 
-## 🎯 Project Objective
-
-The main objective of this project is to understand and practice the fundamentals of React by developing a simple utility dashboard.
-
-The project demonstrates how React manages application state and automatically updates the user interface whenever the state changes.
-
-The project focuses on:
-
-- React functional components
-- State management using `useState`
-- Event handling
-- Conditional rendering
-- Component separation
-- Dynamic UI updates
-- Random number generation
-- Responsive CSS styling
-
----
-
-## 📚 Learning Outcomes
-
-Through this project, the following concepts were practiced:
-
-1. Creating React functional components.
-2. Using the `useState` Hook.
-3. Managing component state.
-4. Handling button click events.
-5. Implementing conditional rendering.
-6. Automatically updating the UI when state changes.
-7. Separating functionality into reusable components.
-8. Creating responsive layouts using CSS.
-9. Building a production-ready React application.
-10. Using Git and GitHub for version control.
-11. Deploying a React application using Vercel.
-
----
-
 ## 🔄 Application Flow
 
 ```text
@@ -344,8 +307,3 @@ React practice project focused on learning state management, event handling, con
 
 ---
 
-## 📌 Project Status
-
-**Completed ✅**
-
-The application has been successfully built using React and Vite, uploaded to GitHub, and deployed using Vercel.
