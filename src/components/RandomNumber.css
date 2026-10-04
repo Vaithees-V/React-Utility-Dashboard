@@ -1,0 +1,61 @@
+.random-card {
+  background: white;
+  padding: 35px;
+  border-radius: 15px;
+  text-align: center;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
+}
+
+.random-card h2 {
+  margin-bottom: 25px;
+  font-size: 28px;
+}
+
+.random-value {
+  min-height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  font-size: 24px;
+  font-weight: bold;
+
+  margin-bottom: 25px;
+}
+
+.random-card button {
+  border: none;
+  padding: 13px 22px;
+  border-radius: 8px;
+
+  background: #222;
+  color: white;
+
+  cursor: pointer;
+  font-size: 15px;
+}
+
+.random-card button:hover {
+  background: #444;
+}
+
+.random-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.random-buttons button {
+  border: none;
+  padding: 13px 22px;
+  border-radius: 8px;
+  background: #222;
+  color: white;
+  cursor: pointer;
+  font-size: 15px;
+}
+
+.random-buttons button:hover {
+  background: #444;
+}
